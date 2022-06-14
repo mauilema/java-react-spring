@@ -1,4 +1,4 @@
-#counter-button {
+.counter-button {
     color: brown;
     background-color: bisque;
     font-size: 18px;
@@ -9,4 +9,12 @@
 .count {
     font-size: 45px;
     padding: 15px 30px;
+}
+
+#resetButton {
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    padding: 5px 10px;
+    width: 80px;
 }
