@@ -4,6 +4,7 @@
     font-size: 18px;
     padding: 15px 30px;
     width: 100px;
+    border-color: white;
 }
 
 .count {
@@ -17,4 +18,8 @@
     font-size: 20px;
     padding: 5px 10px;
     width: 80px;
+}
+
+body {
+    padding: 15px 30px;
 }
