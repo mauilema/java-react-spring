@@ -1,0 +1,12 @@
+#counter-button {
+    color: brown;
+    background-color: bisque;
+    font-size: 18px;
+    padding: 15px 30px;
+    width: 100px;
+}
+
+.count {
+    font-size: 45px;
+    padding: 15px 30px;
+}
